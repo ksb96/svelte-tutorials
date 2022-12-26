@@ -1,0 +1,8 @@
+Svelte is a compiler that generates minimal and highly optimized JavaScript code from our sources
+
+diferent
+frameworks like React and Vue do the bulk of their work in the user's browser while the app is running, Svelte shifts that work into a compile step that happens only when you build your app, producing highly optimized vanilla JavaScript.
+
+{later}
+{sv native}
+{sapper-svelte framework}
