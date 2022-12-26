@@ -6,3 +6,19 @@ frameworks like React and Vue do the bulk of their work in the user's browser wh
 {later}
 {sv native}
 {sapper-svelte framework}
+
+
+{myapp} - npm create svelte@latest myapp
+	- y
+	- s app temp - y
+	- use js - y
+	- eslint - y
+	- prettier - y
+	- playwright - y
+	- vitest - y
+---
+cd myapp
+npm install 
+npm run dev (--app start in browser)
+npm run dev -- --open
+npm run build (--build production!!)
